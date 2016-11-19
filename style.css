@@ -1,0 +1,38 @@
+body {
+    font-family: monospace;
+}
+#ticket {
+    position:relative;
+    top: 20px;
+    left:20px;
+    width: 500px;
+    border: 1px solid;
+    font-size: 15px;
+}
+.line  {
+    border-top: 1px dashed;
+    width: 95%;
+    margin-left: 2.5%;
+}
+.sum-pull-left {
+    text-align: left;
+    font-size: 25px;
+}
+.sum-pull-right {
+    float:right;
+    font-size: 25px;
+}
+.custum-pull-right {
+    float:right;
+}
+.custum-center {
+    position:relative; left:50%;
+    margin-left:-60px;
+}
+.style-for-hr {
+    text-align: center;
+    width: 480px;
+    border: 1px dashed;
+
+
+}
